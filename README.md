@@ -1,4 +1,4 @@
-The package provided 3 commands to sort the bibliography at the end of the article.
+The package provides 3 commands to sort the bibliography at the end of the article.
 
 \scite is used the same as \cite.
 
